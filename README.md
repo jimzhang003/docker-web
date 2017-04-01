@@ -2,4 +2,4 @@
 #this is a test file
 Creating a new branch is quick and simple.
 modify readme
-git is free software
+Git is free software
